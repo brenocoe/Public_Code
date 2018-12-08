@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/brenocoe/Public_Code/master/CMF_HashKey.js
 
 Use this URL in production
 
-https://cdn.rawgit.com/brenocoe/Public_Code/master/CMF_HashKey.js
+https://cdn.jsdelivr.net/gh/brenocoe/Public_Code/CMF_HashKey.js
